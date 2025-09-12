@@ -1,10 +1,11 @@
-
 streamlit-aggrid==1.1.8.post1
 streamlit==1.38.0
-pandas==2.2.2
-plotly==5.23.0
 streamlit-aggrid==1.1.8.post1
+pandas==2.2.2
+plotly==5.15.0
 python-dotenv==1.0.1
-pdf2image==1.17.0  # For PDF image conversion (optional, requires poppler)
-pdfplumber==0.11.4  # For PDF text extraction
-openpyxl==3.1.5    # For Excel support1
+pdfplumber==0.11.4
+
+# Optional dependencies (ensure system support or handle accordingly)
+pdf2image==1.17.0
+openpyxl==3.1.5
