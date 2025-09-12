@@ -10,7 +10,7 @@ import numpy as np
 
 # Load environment variables
 load_dotenv()
-GEMINI_API_KEY = os.getenv('GEMINI_API_KEY', 'your-gemini-api-key-here')
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY', 'AIzaSyA1suRYe9DTXdnJ1BGtrdpk8LnishTRtgk')
 
 # Configure Gemini with correct model name
 try:
